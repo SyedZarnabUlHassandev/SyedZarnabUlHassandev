@@ -19,42 +19,6 @@ Currently, I'm focused on improving my skills in **Web Development**, **WordPres
 
 ---
 
-## 🛠️ Technologies & Tools
-
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- WordPress
-- C++
-- SQL
-- Oracle Database
-- Git
-- GitHub
-- Visual Studio Code
-
----
-
-## 📂 What You'll Find Here
-
-This repository is part of my learning journey and will include:
-
-- Web Development Projects
-- WordPress Projects
-- Programming Assignments
-- Database Projects
-- Practice Code
-- Learning Resources
-- Future Open Source Contributions
-
----
-
-## 🎯 My Goal
-
-My goal is to become a skilled **Full Stack Developer** by building real-world applications, contributing to open-source projects, and continuously expanding my knowledge of modern technologies.
-
----
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61591742113477) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/syed_dev512/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-zarnab-ul-hassan-0aa830419 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedg123456789000@gmail.com) 
 
@@ -78,11 +42,20 @@ My goal is to become a skilled **Full Stack Developer** by building real-world a
 [![](https://komarev.com/ghpvc/?username=SyedZarnabUlHassandev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📫 Connect With Me
+This repository is part of my learning journey and will include:
 
-- 📧 Email: **syedg123456789000@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/syed-zarnab-ul-hassan-0aa830419**
+- Web Development Projects
+- WordPress Projects
+- Programming Assignments
+- Database Projects
+- Practice Code
+- Learning Resources
+- Future Open Source Contributions
 
 ---
+
+## 🎯 My Goal
+
+My goal is to become a skilled **Full Stack Developer** by building real-world applications, contributing to open-source projects, and continuously expanding my knowledge of modern technologies.
 
 ⭐ Thank you for visiting my repository! If you find my work interesting, feel free to explore my projects and follow my journey.
