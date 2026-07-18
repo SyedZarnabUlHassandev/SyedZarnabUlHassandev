@@ -1,4 +1,4 @@
-👋 Hi, I'm Syed Zarnab Ul Hassan
+# 👋 Hi, I'm Syed Zarnab Ul Hassan
 
 Welcome to my GitHub profile!
 
@@ -6,16 +6,20 @@ I'm a **Computer Science student** at the **University of Central Punjab (UCP)**
 
 Currently, I'm focused on improving my skills in **Web Development**, **WordPress Development**, **Database Management**, and **Full Stack Development** while working on practical projects to strengthen my experience.
 
-🚀 About Me
+---
 
-🎓 BS Computer Science Student at UCP
-💻 Passionate Web & WordPress Developer
-🌱 Currently learning Full Stack Development
-🗄️ Exploring SQL, Oracle Database & Backend Development
-✍️ Interested in SEO, AI-powered tools, and Technical Content Writing
-🤝 Always open to learning, collaboration, and new opportunities
+## 🚀 About Me
 
-🛠️ Technologies & Tools
+- 🎓 BS Computer Science Student at UCP
+- 💻 Passionate Web & WordPress Developer
+- 🌱 Currently learning Full Stack Development
+- 🗄️ Exploring SQL, Oracle Database & Backend Development
+- ✍️ Interested in SEO, AI-powered tools, and Technical Content Writing
+- 🤝 Always open to learning, collaboration, and new opportunities
+
+---
+
+## 🛠️ Technologies & Tools
 
 - HTML5
 - CSS3
@@ -29,7 +33,9 @@ Currently, I'm focused on improving my skills in **Web Development**, **WordPres
 - GitHub
 - Visual Studio Code
 
-📂 What You'll Find Here
+---
+
+## 📂 What You'll Find Here
 
 This repository is part of my learning journey and will include:
 
@@ -41,13 +47,19 @@ This repository is part of my learning journey and will include:
 - Learning Resources
 - Future Open Source Contributions
 
-🎯 My Goal
+---
+
+## 🎯 My Goal
 
 My goal is to become a skilled **Full Stack Developer** by building real-world applications, contributing to open-source projects, and continuously expanding my knowledge of modern technologies.
 
-📫 Connect With Me
+---
+
+## 📫 Connect With Me
 
 - 📧 Email: **shahzarnab790@gmail.com**
 - 💼 LinkedIn: **www.linkedin.com/in/syed-zarnab-ul-hassan**
+
+---
 
 ⭐ Thank you for visiting my repository! If you find my work interesting, feel free to explore my projects and follow my journey.
