@@ -57,8 +57,8 @@ My goal is to become a skilled **Full Stack Developer** by building real-world a
 
 ## 📫 Connect With Me
 
-- 📧 Email: **shahzarnab790@gmail.com**
-- 💼 LinkedIn: **www.linkedin.com/in/syed-zarnab-ul-hassan**
+- 📧 Email: **syedg123456789000@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/syed-zarnab-ul-hassan-0aa830419**
 
 ---
 
